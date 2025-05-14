@@ -1,0 +1,7 @@
+{
+  "language": "eng",
+  "os_task_file_format": "csv",
+  "is_text_type": "plain",
+  "task_adjust_boundary_algorithm": "rate",
+  "task_adjust_boundary_percent_value": "50"
+}
