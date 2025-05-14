@@ -1,7 +1,5 @@
 {
   "language": "eng",
-  "os_task_file_format": "csv",
-  "is_text_type": "plain",
-  "task_adjust_boundary_algorithm": "rate",
-  "task_adjust_boundary_percent_value": "50"
+  "audio_file_path": "/mnt/e/voice-generation/data/recordings/recording-eng.wav",
+  "text_file_path": "/mnt/e/voice-generation/data/ULoB-eng-clean.txt"
 }
